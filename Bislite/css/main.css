@@ -13,7 +13,7 @@
 }
 
 * {
-    outline: none !important
+    outline: none !important;
 }
 
 body,
@@ -789,6 +789,7 @@ p {
 .footer_inner .header_logo {
     margin-top: 35px;
     margin-bottom: 54px;
+    text-decoration: none !important;
 }
 
 .footer_inner a:hover {
